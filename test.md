@@ -40,5 +40,4 @@ sample.addEventListener('click', function(event) {
         +<div veo-include="'veodashboard/application/favorites/views/favorites.html'"></div>
     </div>
 </form>
-```m>
 ```
