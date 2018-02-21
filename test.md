@@ -4,3 +4,10 @@ sample.addEventListener('click', function(event) {
   console.log('This is a silly place.');
 });
 ```
+
+
+One small step for 
+```diff
+-man
++humankind
+```
