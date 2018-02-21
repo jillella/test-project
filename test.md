@@ -37,8 +37,8 @@ sample.addEventListener('click', function(event) {
                 data-center-width-ratio="0.85">
         <span class="webicon large icon-search search normal-state" ></span>
         <div veo-include="'veodashboard/application/quickSearch/views/quickSearchResults.html'"></div>
-        <div veo-include="'veodashboard/application/favorites/views/favorites.html'"></div>
-        <div veo-include="'veodashboard/application/choose-accounts/choose-accounts.component.html'"></div>
+-        <div veo-include="'veodashboard/application/favorites/views/favorites.html'"></div>
++        <div veo-include="'veodashboard/application/choose-accounts/choose-accounts.component.html'"></div>
     </div>
 </form>
 ```
